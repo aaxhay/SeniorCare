@@ -8,19 +8,18 @@ const About = () => {
       <div className="row contactus ">
         <div className="col-md-6 ">
           <img
-            src="/images/about.jpeg"
-            alt="contactus"
-            style={{ width: "100%" }}
+            src="https://img.freepik.com/free-vector/job-interview-conversation_74855-7566.jpg?t=st=1743266253~exp=1743269853~hmac=a4a4037c4fc627cb1c6ebb6c0b7513a2c17b49c5d7059e855b248ffe064beda6&w=1380"
+            
+            style={{ width: "65%" }}
           />
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+          Welcome to <b>SeniorCare</b>, your trusted partner in enhancing the lives of senior citizens. We provide a wide range of products designed to improve comfort, independence, and well-being for older adults. From mobility aids to daily living tools, we offer high-quality, affordable solutions to help seniors live safely and comfortably.
+
+Our carefully selected products are designed to meet the unique needs of seniors, with a focus on ease of use and reliability. At SeniorCare, we’re dedicated to supporting seniors and their families, ensuring they have the resources they need for a fulfilling, independent life.
+
+Thank you for choosing SeniorCare. we are here to help every step of the way.
           </p>
         </div>
       </div>

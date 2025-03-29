@@ -51,7 +51,7 @@ const ForgotPassword = () => {
                 justifyContent: "center"
             }}>
                 <Typography variant={"h6"}>
-                 Welcome to khareedo 
+                 Forgot your password
                 </Typography>
             </div>
          <div style={{display: "flex", justifyContent: "center"}}>
